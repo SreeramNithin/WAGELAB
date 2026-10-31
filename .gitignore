@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+wage_predictor_model
+.DS_Store

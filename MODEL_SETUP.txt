@@ -1,0 +1,3 @@
+The original 110 MB model is intentionally not bundled in this source ZIP.
+Upload wage_predictor_model as a GitHub Release asset and configure MODEL_URL
+in Streamlit Cloud Secrets. See README.md for exact steps.
